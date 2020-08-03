@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+}
+.menu{
+    background-color: aqua;
+    display:flex;
+    margin: 10px;
+}
