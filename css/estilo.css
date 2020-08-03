@@ -1,10 +1,20 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+    color: gray;
+
 }
-.menu{
-    background-color: aqua;
-    display:flex;
-    margin: 10px;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px black;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 30px;
+    
+}
+#container h3{
+    font-size: 15px;
 }
