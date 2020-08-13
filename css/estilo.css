@@ -32,4 +32,12 @@ body{
 {
     width: 120px;
     vertical-align: middle;
+#footer 
+{
+    background-color: cornflowerblue;
+}
+#footer #p
+{
+    background-color: darkcyan;
+    color: darkorchid;
 }
